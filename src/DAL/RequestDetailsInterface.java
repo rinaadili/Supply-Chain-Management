@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public interface RequestDetailsInterface {
     void create(RequestDetails p) throws SCHMException;

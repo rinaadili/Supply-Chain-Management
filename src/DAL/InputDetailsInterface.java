@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public interface InputDetailsInterface {
     void create(InputDetails o) throws SCHMException;

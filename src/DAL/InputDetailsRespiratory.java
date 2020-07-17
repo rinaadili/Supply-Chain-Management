@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public class InputDetailsRespiratory extends EntMngClass implements InputDetailsInterface{
 

@@ -10,7 +10,7 @@ import java.util.*;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public class OrdersRespiratory extends EntMngClass implements OrdersInterface{
 

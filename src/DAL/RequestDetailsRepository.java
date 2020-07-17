@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public class RequestDetailsRepository extends EntMngClass implements RequestDetailsInterface{
 

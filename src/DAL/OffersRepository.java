@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public class OffersRepository extends EntMngClass implements OffersInterface{
 

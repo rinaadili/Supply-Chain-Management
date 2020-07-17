@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public class RequestRepository extends EntMngClass implements RequestInterface{
 

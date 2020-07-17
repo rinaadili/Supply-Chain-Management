@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public interface ProductsInterface {
     void create(Products p) throws SCHMException;

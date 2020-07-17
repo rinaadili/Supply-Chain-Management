@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public interface OrderDetailsInterface {
     void create(OrderDetails o) throws SCHMException;

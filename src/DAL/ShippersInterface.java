@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Hp
+ * @author RA
  */
 public interface ShippersInterface {
     void create(Shippers s) throws SCHMException;

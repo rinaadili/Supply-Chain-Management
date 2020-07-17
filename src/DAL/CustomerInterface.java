@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public interface CustomerInterface {
     void create(Customer p) throws SCHMException;

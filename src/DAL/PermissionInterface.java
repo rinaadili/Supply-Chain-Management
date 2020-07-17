@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public interface PermissionInterface {
     void create(Permission p) throws SCHMException;
