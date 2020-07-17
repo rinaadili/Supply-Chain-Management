@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="SupplyChainManagementPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>BLL.City</class>
+    <class>BLL.Company</class>
+    <class>BLL.Country</class>
+    <class>BLL.Customer</class>
+    <class>BLL.Employees</class>
+    <class>BLL.Objects</class>
+    <class>BLL.OrderDetails</class>
+    <class>BLL.Orders</class>
+    <class>BLL.Permission</class>
+    <class>BLL.ProductCategory</class>
+    <class>BLL.Products</class>
+    <class>BLL.Request</class>
+    <class>BLL.RequestDetails</class>
+    <class>BLL.Shippers</class>
+    <class>BLL.Suppliers</class>
+    <class>BLL.Title</class>
+    <class>BLL.Users</class>
+    <class>BLL.Offers</class>
+    <class>BLL.InputDetails</class>
+    <class>BLL.Inputs</class>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:sqlserver://localhost:1433;databaseName=SupplyChainManagement"/>
+      <property name="javax.persistence.jdbc.user" value="sa"/>
+      <property name="javax.persistence.jdbc.driver" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
+      <property name="javax.persistence.jdbc.password" value="sa"/>
+    </properties>
+  </persistence-unit>
+</persistence>
