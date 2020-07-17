@@ -12,7 +12,7 @@ import javax.swing.ComboBoxModel;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public class PermissionComboBoxModel extends AbstractListModel<Permission> implements ComboBoxModel<Permission>{
     List<Permission> list;

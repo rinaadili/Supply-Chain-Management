@@ -12,7 +12,7 @@ import javax.swing.ComboBoxModel;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public class EmployeeComboBoxModel extends AbstractListModel<Employees> implements ComboBoxModel<Employees>{
     List<Employees> list;

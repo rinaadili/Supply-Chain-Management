@@ -30,7 +30,7 @@ import javax.swing.event.ListSelectionListener;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public class UsersForm extends javax.swing.JInternalFrame {
 

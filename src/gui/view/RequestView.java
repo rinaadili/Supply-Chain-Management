@@ -33,7 +33,7 @@ import javax.swing.event.ListSelectionListener;
 
 /**
  *
- * @author EN
+ * @author RA
  */
 public class RequestView extends javax.swing.JInternalFrame {
 

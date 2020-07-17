@@ -24,7 +24,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 @Entity
 @Table(name = "Offers")

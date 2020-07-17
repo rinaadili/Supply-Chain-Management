@@ -31,7 +31,7 @@ import javax.swing.event.ListSelectionListener;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public class SupplierForm extends javax.swing.JInternalFrame {
 

@@ -16,7 +16,7 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author Hp
+ * @author RA
  */
 
 public class ProductCategoryTableModel extends AbstractTableModel {

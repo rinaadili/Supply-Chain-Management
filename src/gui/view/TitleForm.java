@@ -25,7 +25,7 @@ import java.util.logging.Logger;
 import javax.swing.JFrame;
 /**
  *
- * @author EN
+ * @author RA
  */
 public class TitleForm extends javax.swing.JInternalFrame {
 

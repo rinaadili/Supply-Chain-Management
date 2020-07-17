@@ -11,7 +11,7 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public class UsersTableModel extends AbstractTableModel{
     

@@ -27,7 +27,7 @@ import javax.mail.internet.InternetAddress;
 import javax.swing.JFrame;
 /**
  *
- * @author HP
+ * @author RA
  */
 public class ShippersForm extends javax.swing.JInternalFrame {
 
